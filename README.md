@@ -20,7 +20,7 @@ A repository to keep track of any specific resources or assets I might find inte
 - [Tiled](https://www.mapeditor.org/)
 
 ## Courses
-- [Pikuma]()
+- [Pikuma](https://pikuma.com/)
 - [GDQuest](https://www.gdquest.com/)
 - [Heart Gamedev Academy](https://heartbeast-gamedev-school.teachable.com/)
 
@@ -54,21 +54,21 @@ A repository to keep track of any specific resources or assets I might find inte
 - [Spacemacs Tutorials | GDQuest](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KFkMVBunWWzFD8SlH714qm4)
 
 ## Youtube Channels
-- [GDQuest]
-- [HeartBeast]
-- [Lukifah]
-- [DevDuck]
-- [ThatGuyGlen]
-- [freeCodeCamp]
-- [Game Maker's Toolkit]
-- [FriendlyCosmonaut]
-- [Msahiro Sakurai on Creating Games]
-- [Pikuma]
-- [People Make Games]
-- [Gamefromscratch]
-- [Lazy Devs]
-- [Ask Gamedev]
-- [NULL Game Dev]
+- [GDQuest](https://www.youtube.com/@Gdquest)
+- [HeartBeast](https://www.youtube.com/@uheartbeast)
+- [Lukifah](https://www.youtube.com/@Lukifah/playlists)
+- [DevDuck](https://www.youtube.com/@DevDuck)
+- [ThatGuyGlen](https://www.youtube.com/@ThatGuyGlen)
+- [freeCodeCamp](https://www.youtube.com/@freecodecamp)
+- [Game Maker's Toolkit](https://www.youtube.com/@GMTK)
+- [FriendlyCosmonaut](https://www.youtube.com/@FriendlyCosmonaut)
+- [Masahiro Sakurai on Creating Games](https://www.youtube.com/@sora_sakurai_en)
+- [Pikuma](https://www.youtube.com/@pikuma)
+- [People Make Games](https://www.youtube.com/@PeopleMakeGames)
+- [Gamefromscratch](https://www.youtube.com/@gamefromscratch)
+- [Lazy Devs](https://www.youtube.com/@LazyDevs)
+- [Ask Gamedev](https://www.youtube.com/@AskGamedev)
+- [NULL Game Dev](https://www.youtube.com/@NULLGameDev/videos)
 
 ## Other Resources
 - [Game UI Database](https://www.gameuidatabase.com/)
