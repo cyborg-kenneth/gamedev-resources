@@ -13,6 +13,7 @@ A repository to keep track of any specific resources or assets I might find inte
 
 ## Engines: 
 - [Godot](https://godotengine.org/)
+
 ## Fonts: 
 - [Silkscreen](https://fonts.google.com/specimen/Silkscreen?query=silks)
 
@@ -24,6 +25,7 @@ A repository to keep track of any specific resources or assets I might find inte
 
 ## Sound Effets: 
 - [Chiptone](https://sfbgames.itch.io/chiptone)
+
 ## Tutorials: 
 - [Make an Action RPG | HeartBeast](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
 - [Scriptable Objects | HeartBeast](https://www.youtube.com/playlist?list=PL9FzW-m48fn22pwEJA4vSLoYjmN5Q2tvJ)
@@ -37,6 +39,24 @@ A repository to keep track of any specific resources or assets I might find inte
 - [GameMaker Crafting Course | GameMakerStation-Matharoo](https://www.youtube.com/playlist?list=PLUEcBPiXnlBwNjhLWzJAQJ78deyXRIIZl)
 - [Farming RPG Tutorial | FriendlyCosmonaut](https://www.youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTymnBiriY)
 - [Spacemacs Tutorials | GDQuest](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KFkMVBunWWzFD8SlH714qm4)
+
+## Youtube Channels
+- [GDQuest]
+- [HeartBeast]
+- [Lukifah]
+- [DevDuck]
+- [ThatGuyGlen]
+- [freeCodeCamp]
+- [Game Maker's Toolkit]
+- [FriendlyCosmonaut]
+- [Msahiro Sakurai on Creating Games]
+- [Pikuma]
+- [People Make Games]
+- [Gamefromscratch]
+- [Lazy Devs]
+- [Ask Gamedev]
+- [NULL Game Dev]
+
 ## Other Resources: 
 - [Game UI Database](https://www.gameuidatabase.com/)
 - [Game Design Document](https://www.gamedesigning.org/learn/game-design-document/)
