@@ -1,32 +1,45 @@
 # Game Dev Resources
 A repository to keep track of any specific resources or assets I might find interesting
 
-## Art: 
+## Content
+- [Game Dev Resources](#game-dev-resources)
+  - [Content](#content)
+  - [Art](#art)
+  - [Courses](#courses)
+  - [Engines](#engines)
+  - [Fonts](#fonts)
+  - [Marketing](#marketing)
+  - [Music](#music)
+  - [Sound Effets](#sound-effets)
+  - [Tutorials](#tutorials)
+  - [Youtube Channels](#youtube-channels)
+  - [Other Resources](#other-resources)
+## Art
 - [Aseprite](https://www.aseprite.org/)
 - [Tilesetter](https://www.tilesetter.org/)
 - [Tiled](https://www.mapeditor.org/)
 
-## Courses: 
+## Courses
 - [Pikuma]()
 - [GDQuest](https://www.gdquest.com/)
 - [Heart Gamedev Academy](https://heartbeast-gamedev-school.teachable.com/)
 
-## Engines: 
+## Engines 
 - [Godot](https://godotengine.org/)
 
-## Fonts: 
+## Fonts 
 - [Silkscreen](https://fonts.google.com/specimen/Silkscreen?query=silks)
 
 ## Marketing
 - [How to Market a Game](https://howtomarketagame.com/)
 
-## Music: 
+## Music 
 - [BeepBox](https://www.beepbox.co/)
 
-## Sound Effets: 
+## Sound Effets
 - [Chiptone](https://sfbgames.itch.io/chiptone)
 
-## Tutorials: 
+## Tutorials
 - [Make an Action RPG | HeartBeast](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
 - [Scriptable Objects | HeartBeast](https://www.youtube.com/playlist?list=PL9FzW-m48fn22pwEJA4vSLoYjmN5Q2tvJ)
 - [Random Level Generation | HeartBeast](https://www.youtube.com/playlist?list=PL9FzW-m48fn1te9MJgxmmaiKtOytFIRo3)
@@ -57,6 +70,6 @@ A repository to keep track of any specific resources or assets I might find inte
 - [Ask Gamedev]
 - [NULL Game Dev]
 
-## Other Resources: 
+## Other Resources
 - [Game UI Database](https://www.gameuidatabase.com/)
 - [Game Design Document](https://www.gamedesigning.org/learn/game-design-document/)
