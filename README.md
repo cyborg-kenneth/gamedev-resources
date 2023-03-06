@@ -52,6 +52,7 @@ A repository to keep track of any specific resources or assets I might find inte
 - [GameMaker Crafting Course | GameMakerStation-Matharoo](https://www.youtube.com/playlist?list=PLUEcBPiXnlBwNjhLWzJAQJ78deyXRIIZl)
 - [Farming RPG Tutorial | FriendlyCosmonaut](https://www.youtube.com/playlist?list=PLSFMekK0JFgzbFfj1vAsyluKTymnBiriY)
 - [Spacemacs Tutorials | GDQuest](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KFkMVBunWWzFD8SlH714qm4)
+- [Make a Pokemon Game in Godot | Arkeve](https://www.youtube.com/playlist?list=PLY1jY0hbmKxAya3z6YBuQ3gGNB6Sg137r)
 
 ## Youtube Channels
 - [GDQuest](https://www.youtube.com/@Gdquest)
@@ -68,7 +69,8 @@ A repository to keep track of any specific resources or assets I might find inte
 - [Gamefromscratch](https://www.youtube.com/@gamefromscratch)
 - [Lazy Devs](https://www.youtube.com/@LazyDevs)
 - [Ask Gamedev](https://www.youtube.com/@AskGamedev)
-- [NULL Game Dev](https://www.youtube.com/@NULLGameDev/videos)
+- [NULL Game Dev](https://www.youtube.com/@NULLGameDev)
+- [Arkeve](https://www.youtube.com/@Arkeve)
 
 ## Other Resources
 - [Game UI Database](https://www.gameuidatabase.com/)
