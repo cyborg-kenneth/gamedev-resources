@@ -40,7 +40,7 @@ A repository to keep track of any specific resources or assets I might find inte
 - [Chiptone](https://sfbgames.itch.io/chiptone)
 
 ## Tutorials
-- [X][Make an Action RPG | HeartBeast](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
+- [X] [Make an Action RPG | HeartBeast](https://www.youtube.com/playlist?list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
 - [ ][Scriptable Objects | HeartBeast](https://www.youtube.com/playlist?list=PL9FzW-m48fn22pwEJA4vSLoYjmN5Q2tvJ)
 - [][Random Level Generation | HeartBeast](https://www.youtube.com/playlist?list=PL9FzW-m48fn1te9MJgxmmaiKtOytFIRo3)
 - [][Resource Based Inventory | HeartBeast](https://www.youtube.com/playlist?list=PL9FzW-m48fn0x1k7q7wFR6UQa-Dzt3TTZ)
